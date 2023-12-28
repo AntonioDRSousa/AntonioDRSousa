@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!---->
 <div>
 <a href="https://github.com/AntonioDRSousa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioDRSousa&layout=compact&langs_count=7&theme=dracula"/>
