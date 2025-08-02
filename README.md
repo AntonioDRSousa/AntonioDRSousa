@@ -45,13 +45,31 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Haskell-Light.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
   
-          
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Light.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Octave-Light.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
 
-
-          
-  
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Light.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mint-Light.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Light.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Light.svg">
 </div>
+
+
 
 ## 🥈 Secondary technology stack
 
