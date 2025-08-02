@@ -42,8 +42,16 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
 
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Haskell-Light.svg">
+  
+          
+
+
+          
+  
+</div>
 
 ## 🥈 Secondary technology stack
 
