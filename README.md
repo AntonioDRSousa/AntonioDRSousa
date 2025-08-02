@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Antonio 👋
 
 <!--
 **AntonioDRSousa/AntonioDRSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioDRSousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-## 🥇 Primary technology stack
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Haskell-Light.svg">
   <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
@@ -61,12 +59,4 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Light.svg">
 </div>
-
-
-
-## 🥈 Secondary technology stack
-
-## 🥉 Tertiary technology stack
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
