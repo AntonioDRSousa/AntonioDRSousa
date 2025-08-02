@@ -1,6 +1,6 @@
 ### Hi, my name is Antonio 👋
 
-I am a fullstack software developer with a bachelor's degree in Computer Science at Rio de Janeiro State University (UERJ) and I have experience in web development, programing desktop applications and game development. I am proficient in C, C++, Python, Java, Javascript, HTML, CSS and SQL. I'm a enthusiastic learner, always learning something new for solve problems. I have 2 years of undergraduate research with published articles (my CV in http://lattes.cnpq.br/5805215370543596 ) and my TCC ( https://github.com/AntonioDRSousa/TCC-Grafos ) includes the final result of my research.
+I am a fullstack software developer with a bachelor's degree in Computer Science at Rio de Janeiro State University (UERJ) and I have experience in web development, programing desktop applications and game development. I am proficient in C, C++, Python, Java, Javascript, HTML, CSS and SQL. I'm a enthusiastic learner, always learning something new for solve problems. I have 2 years of undergraduate research with published articles (my CV in http://lattes.cnpq.br/5805215370543596 ) and my TCC ( https://github.com/AntonioDRSousa/TCC-Grafos ) includes the final result of my research. You can contact me by email antoniodrsousa@gmail.com . 
 
 Welcome to my page on github, you can find:
 - projects created by me
